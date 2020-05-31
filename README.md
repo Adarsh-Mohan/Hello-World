@@ -1,2 +1,3 @@
 # Hello-World
-My First Repository, hoping to get great coding experience from GitHub
+Adarsh Mohan here..
+I like to work with C,C++,Python and at present I am trying a hand at Android app development with Android Studio
